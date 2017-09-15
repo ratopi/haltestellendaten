@@ -22,3 +22,7 @@ In den veröffentlichten Daten sind zu jeder Haltestelle folgende Informationen 
 * LAENGE: Longitude der Haltestelle in WGS84, z. B. 6.091499.
 * BREITE: Latitude der Haltestelle in WGS84, z. B. 50.7678.
 * STATUS: Hinweis, meist nicht verwendet z. B. neu
+
+## Data source
+
+http://data.deutschebahn.com/dataset/data-haltestellen
